@@ -19,6 +19,7 @@ gem 'bootstrap-will_paginate', '1.0.0'
 source 'https://rubygems.org'
 
 gem 'bootstrap-sass', '3.3.7'
+gem "letter_opener", :group => :development
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
